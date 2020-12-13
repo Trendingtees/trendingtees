@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋I am a designer, art director, and student currently living in usa. My interests range from design to arts. I am also interested in web development, camping, and swimming.
+You can click the button above to visit my website. Visit Page :https://www.trendingtees.co/
+Choose from a wide range of shirts online. Buy casual shirts, formal shirts, printed shirts, hoodie, longSleeve, sweatshirt.
+
 
 <!--
 **Trendingtees/trendingtees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
